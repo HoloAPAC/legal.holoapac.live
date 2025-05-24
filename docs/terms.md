@@ -9,7 +9,7 @@ description: Rules for using our services, user responsibilities, disclaimers, a
 
 Welcome to `tickets.holoapac.live` (the **Website**). The Website is an event ticketing platform for events organised by HoloAPAC Offkai (the **Services**).
 
-The Website is operated by HoloAPAC Offkai (ABN 87713895325). Access to and use of the Website, or any of its associated products or services, is provided by HoloAPAC Offkai. Please read these terms and conditions (the **Terms**) carefully. 
+The Website is operated by HoloAPAC Offkai (ABN 87 713 895 325). Access to and use of the Website, or any of its associated products or services, is provided by HoloAPAC Offkai. Please read these terms and conditions (the **Terms**) carefully. 
 By using, browsing and/or reading the Website, you signify that you have read, understood and agree to be bound by the Terms. If you do not agree with the Terms, you must cease usage of the Website or any of the Services immediately.
 
 HoloAPAC Offkai reserves the right to review and change any of the Terms by updating this page. When HoloAPAC Offkai updates the Terms, it will provide notice of such changes via email to registered users and through a prominent notice on the Website at least 30 days before the changes take effect. Changes to the Terms will become effective 30 days after the date of notification, unless a longer period is required by law. Users who continue to use the Website after the notice period will be deemed to have accepted the updated Terms. We recommend you regularly review and keep a copy of the Terms for your records.

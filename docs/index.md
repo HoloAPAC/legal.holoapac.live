@@ -21,8 +21,8 @@ Welcome to the **Legal Center** for **HoloAPAC Offkai**. Below you’ll find our
 ## 🔍 At a glance
 
 > **Effective jurisdiction:** Australia & International  
-> **Data controller:** Your Company Pty Ltd (ABN 00 000 000 000)  
-> **Contact:** [legal@yourcompany.com](mailto:legal@yourcompany.com)
+> **Data controller:** HoloAPAC Offkai (ABN 87 713 895 325)  
+> **Contact:** [legal@holoapac.live](mailto:legal@holoapac.live)
 
 ---
 
