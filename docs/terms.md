@@ -93,26 +93,26 @@ In the event of cancellation or significant changes, ticket holders will be noti
 ## Photography and Recording Rights
 - By attending the event, you acknowledge and agree that:
 
-  - HoloAPAC Offkai and its authorized representatives may photograph, film, and/or record you during the event;
-  - You grant HoloAPAC Offkai and its authorized representatives the perpetual, worldwide right to use, reproduce, modify, distribute, and publicly display such photographs, recordings, and footage containing your image or likeness for promotional, marketing, archival, or other legitimate business purposes;
-  - This grant of rights is made without any expectation of compensation or additional consideration;
-  - HoloAPAC Offkai will exercise these rights in accordance with applicable privacy laws and in a manner that respects attendee dignity.
+    - HoloAPAC Offkai and its authorized representatives may photograph, film, and/or record you during the event;
+    - You grant HoloAPAC Offkai and its authorized representatives the perpetual, worldwide right to use, reproduce, modify, distribute, and publicly display such photographs, recordings, and footage containing your image or likeness for promotional, marketing, archival, or other legitimate business purposes;
+    - This grant of rights is made without any expectation of compensation or additional consideration;
+    - HoloAPAC Offkai will exercise these rights in accordance with applicable privacy laws and in a manner that respects attendee dignity.
 
 - Attendee Photography and Recording:
-  - You may take photographs and recordings for personal, non-commercial use during the event;
-  - Such photography and recording must not interfere with the event, performers, or other attendees' enjoyment;
-  - Any commercial use, broadcast, or public distribution of your photographs or recordings requires express written permission from HoloAPAC Offkai;
-  - Specific venues or events may have additional restrictions on photography or recording, which will be communicated in advance and must be followed.
+    - You may take photographs and recordings for personal, non-commercial use during the event;
+    - Such photography and recording must not interfere with the event, performers, or other attendees' enjoyment;
+    - Any commercial use, broadcast, or public distribution of your photographs or recordings requires express written permission from HoloAPAC Offkai;
+    - Specific venues or events may have additional restrictions on photography or recording, which will be communicated in advance and must be followed.
 
 - HoloAPAC Offkai reserves the right to:
-  - Impose additional restrictions on photography and recording at specific events;
-  - Request the deletion of any photographs or recordings that violate these terms;
-  - Remove attendees who do not comply with photography and recording restrictions.
+    - Impose additional restrictions on photography and recording at specific events;
+    - Request the deletion of any photographs or recordings that violate these terms;
+    - Remove attendees who do not comply with photography and recording restrictions.
 
 - Image Removal Requests:
-  - If you wish to have your image removed from any photographs or recordings taken by HoloAPAC Offkai or its authorized representatives, please contact us directly with your request;
-  - For photographs or recordings published by other attendees, please contact the respective photographer or publisher directly;
-  - While we will make reasonable efforts to accommodate removal requests, please note that it may not be possible to remove images from all contexts, particularly if they have been widely shared or published.
+    - If you wish to have your image removed from any photographs or recordings taken by HoloAPAC Offkai or its authorized representatives, please contact us directly with your request;
+    - For photographs or recordings published by other attendees, please contact the respective photographer or publisher directly;
+    - While we will make reasonable efforts to accommodate removal requests, please note that it may not be possible to remove images from all contexts, particularly if they have been widely shared or published.
 
 
 
