@@ -64,7 +64,6 @@ You accept the Terms by remaining on the Website. You may also accept the Terms 
 - Entry to events is subject to the presentation of a valid ticket. HoloAPAC Offkai reserves the right to refuse entry or remove any person from the venue.
 - Ticket holders attend events at their own risk. HoloAPAC Offkai is not liable for any loss, injury, or damage that may occur while attending an event.
 - To the maximum extent permitted by law, ticket holders waive all rights to claim against HoloAPAC Offkai for any indirect, consequential, special, or exemplary damages arising from or related to event attendance, including but not limited to personal injury, property damage, or disappointment with the event experience.
-- Photography, video recording, and audio recording may be prohibited at certain events. Ticket holders must comply with all venue policies and event-specific rules.
 - HoloAPAC Offkai is not responsible for:
   - Personal belongings brought to the event  
   - Transport to and from the event  
@@ -87,8 +86,35 @@ In the event of cancellation or significant changes, ticket holders will be noti
 ## Copyright and Event Content
 
 - All content on the Website, including but not limited to event descriptions, images, logos, and promotional materials, is protected by copyright under Australian law and international treaties.
-- You may not record, photograph, reproduce, or transmit any performance or event without express written permission from HoloAPAC Offkai and relevant rights holders.
 - Unauthorized use of tickets, including reproduction, alteration, or resale, is strictly prohibited and may result in entry being refused.
+
+---
+
+## Photography and Recording Rights
+- By attending the event, you acknowledge and agree that:
+
+  - HoloAPAC Offkai and its authorized representatives may photograph, film, and/or record you during the event;
+  - You grant HoloAPAC Offkai and its authorized representatives the perpetual, worldwide right to use, reproduce, modify, distribute, and publicly display such photographs, recordings, and footage containing your image or likeness for promotional, marketing, archival, or other legitimate business purposes;
+  - This grant of rights is made without any expectation of compensation or additional consideration;
+  - HoloAPAC Offkai will exercise these rights in accordance with applicable privacy laws and in a manner that respects attendee dignity.
+
+- Attendee Photography and Recording:
+  - You may take photographs and recordings for personal, non-commercial use during the event;
+  - Such photography and recording must not interfere with the event, performers, or other attendees' enjoyment;
+  - Any commercial use, broadcast, or public distribution of your photographs or recordings requires express written permission from HoloAPAC Offkai;
+  - Specific venues or events may have additional restrictions on photography or recording, which will be communicated in advance and must be followed.
+
+- HoloAPAC Offkai reserves the right to:
+  - Impose additional restrictions on photography and recording at specific events;
+  - Request the deletion of any photographs or recordings that violate these terms;
+  - Remove attendees who do not comply with photography and recording restrictions.
+
+- Image Removal Requests:
+  - If you wish to have your image removed from any photographs or recordings taken by HoloAPAC Offkai or its authorized representatives, please contact us directly with your request;
+  - For photographs or recordings published by other attendees, please contact the respective photographer or publisher directly;
+  - While we will make reasonable efforts to accommodate removal requests, please note that it may not be possible to remove images from all contexts, particularly if they have been widely shared or published.
+
+
 
 ---
 
